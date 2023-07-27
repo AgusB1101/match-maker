@@ -1,5 +1,6 @@
 {
   "name": "match-maker",
+  "homepage": "https://agusb1101.github.io/match-maker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
